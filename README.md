@@ -25,7 +25,12 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-  <h3><b>Microverse README Template</b></h3>
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <h2> Mohammed Roshdy </h2>
+  <br/>
+
+  <h3><b>Hello World project</b></h3>
 
 </div>
 
@@ -55,50 +60,43 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello World <a name="about-project"></a>
 
-**[your_project__name]** is a...
+> this is my Hello World project i have created using HTML, CSS, linters
 
 ## 🛠 Built With <a name="built-with"></a>
 
+1: Html
+2: CSS
+3: linters
+
 ### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.com/">Html</a></li>
+    <li><a href="https://w3schools.com/">CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+> Describe between 1-3 key features of the application.
+
+- Added HTML file
+- Added CSS file
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://google.com)
+> coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,11 +104,66 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+1: web browser
+2: an code editor
+3: Git-smc
+
+### Setup
+
+Clone this repository to your desired folder:
+
+just run this command
+
+```sh
+  cd my-folder
+  git clone https://github.com/MohamedRoshdy2021/first-project.git
+```
+
+### Install
+
+Install this project with:
+
+run this npm command
+
+```sh
+  cd my-project
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+open index.html file using live server extension
+
+### Run tests
+
+coming soon!
+
+### Deployment
+
+coming soon!
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 Mohammed roshdy
+
+- GitHub: [@githubhandle](https://github.com/MohamedRoshdy2021)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammed-elkhadragy-2b58b6215/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,9 +171,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+> Describe 1 - 3 features you will add to the project.
+
+- coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,9 +181,19 @@ After you're finished please remove all the comments and instructions!
 
 ## 🤝 Contributing <a name="contributing"></a>
 
+Contributions, issues, and feature requests are welcome!
+
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project don't forgt to give a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,11 +201,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank Microvesre who helped alot during myjourney
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +215,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
